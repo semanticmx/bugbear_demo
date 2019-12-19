@@ -23,10 +23,10 @@ Bugbear Demo pyTol Dic 2019
 * Documentation: https://bugbear-demo.readthedocs.io.
 
 
-Features
---------
+Running
+-------
 
-* TODO
+$ tox -e flake8
 
 Credits
 -------
